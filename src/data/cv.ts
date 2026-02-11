@@ -17,11 +17,11 @@ export const experiences = [
 
 export const education = [
 	{
-		school: '',
-		time: '',
-		degree: '',
-		location: '',
-		description: '',
+		school: 'Stanford University',
+		time: '2025 - 2027',
+		degree: 'MS Statistics',
+		location: 'Stanford CA',
+		description: 'George Moore Scholar.',
 	},
 	// {
 	// 	school: 'University of Paris',
@@ -34,8 +34,8 @@ export const education = [
 
 export const skills = [
 	{
-		title: '',
-		description: '',
+		title: 'Programming',
+		description: 'Python, R, C++, PyTorch, NumPy, Pandas, scikit-learn, Git, SQL',
 	},
 	// {
 	// 	title: 'Experimental Techniques',
