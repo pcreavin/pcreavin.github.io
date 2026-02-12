@@ -1,10 +1,18 @@
 export const experiences = [
 	{
-		company: '',
-		time: '',
-		title: '',
-		location: '',
-		description: '',
+		company: 'Optiver',
+		time: 'Summer 2026',
+		title: 'Incoming Quantitative Research Intern',
+		location: 'Austin, TX',
+		description: 'Delta one HFT research',
+	},
+
+	{
+		company: 'SCOR',
+		time: 'January 2024 - June 2024',
+		title: 'Actuarial Intern',
+		location: 'London, UK',
+		description: 'Property and casualty pricing team',
 	},
 	// {
 	// 	company: 'Radium Institute (Institut du Radium)',
@@ -20,9 +28,16 @@ export const education = [
 		school: 'Stanford University',
 		time: '2025 - 2027',
 		degree: 'MS Statistics',
-		location: 'Stanford CA',
-		description: 'George Moore Scholar.',
+		location: 'Stanford, CA',
+		description: 'GPA: 4.21/4.00, George Moore Scholar.',
 	},
+	{
+		school: 'University College Dublin',
+		time: '2021 - 2025',
+		degree: 'Bachelor of Actuarial and Financial Studies',
+		location: 'Dublin, Ireland',
+		description: 'GPA: 4.12/4.2',
+	}
 	// {
 	// 	school: 'University of Paris',
 	// 	time: '1891 - 1895',
