@@ -59,20 +59,13 @@ export const skills = [
 ];
 
 export const publications = [
-	{
-		title: '',
-		authors: '',
-		journal: '',
-		time: '',
-		link: '',
-		abstract: '',
-	},
-	// {
-	// 	title: 'The Radiation of Uranium Compounds',
-	// 	authors: 'Marie Curie',
-	// 	journal: 'Comptes Rendus de l’Académie des Sciences',
-	// 	time: '1898',
-	// 	link: '#',
-	// 	abstract: 'Early research leading to the identification of uranium’s radioactive properties.',
-	// },
+  {
+    title: "Udderly Fit: Efficient Transfer Learning for Dairy Cattle Body Condition Scoring",
+    authors: "Paul Creavin",
+    journal: "Manuscript / Project Paper",
+    time: "2025",
+    link: "/papers/Udderly_Fit.pdf",
+    abstract:
+      "A deep-learning pipeline for automated body condition scoring (BCS) in dairy cattle using transfer learning and robust evaluation.",
+  },
 ];
