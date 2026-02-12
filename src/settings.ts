@@ -14,7 +14,7 @@ export const social = {
 	linkedin: 'https://www.linkedin.com/in/paul-creavin/',
 	x: '',
 	bluesky: '',
-	github: '',
+	github: 'https://github.com/pcreavin',
 	gitlab: '',
 	scholar: '',
 	inspire: '',
