@@ -62,7 +62,7 @@ export const publications = [
   {
     title: "Udderly Fit: Efficient Transfer Learning for Dairy Cattle Body Condition Scoring",
     authors: "Paul Creavin",
-    journal: "Manuscript / Project Paper",
+    journal: "CS229",
     time: "2025",
     link: "/papers/Udderly_Fit.pdf",
     abstract:
