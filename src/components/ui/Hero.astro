@@ -21,9 +21,11 @@ const {fullName, title, institute, profilePicture} = Astro.props
 </div>
 <div class='size-72 lg:block hidden'>
   <!-- Add your profile image -->
-  <Image
-    src={profilePicture}
-    alt={fullName}
-    class='w-full h-full mask mask-circle size-44'
-  />
+<img
+  class="mask mask-circle size-44"
+  src={profilePicture}
+  width="1557"
+  height="1443"
+  alt={`Profile picture of ${fullName}`}
+/>
 </div>
